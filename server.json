@@ -1,0 +1,11 @@
+{
+	"script": "server.js",
+  	"watch": true,
+  	"ignore_watch" : ["node_modules", ".*", "uploads", "bower_components"],
+  	"watch_options": {
+    	"followSymlinks": false
+  	},
+  	"env": {
+        "NODE_ENV": "development"
+    }
+}
