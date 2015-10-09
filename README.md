@@ -9,7 +9,7 @@ The second main feature of this project is its simple design. It is meant to be 
 ## Getting Started
 
 ### Vagrant (recommended)
-Prerequiresites: requires [Vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/wiki/Download_Old_Builds_4_3) `v4.3` to be installed.
+Prerequiresites: requires [Vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/wiki/Download_Old_Builds_4_3) v4.3 to be installed.
 
 1. Clone the repository and enter the project directory
 
@@ -25,7 +25,7 @@ Prerequiresites: requires [Vagrant](https://www.vagrantup.com/) and [VirtualBox]
   $ vagrant ssh
   ```
 
-At this point the virtual machine will be up with the server and file watchers running and can be visited locally at 192.168.33.10
+At this point the virtual machine will be up with the server and file watchers running and can be visited locally at `192.168.33.10:3000`
 
 ### Local
 Prerequiresites: requires [Node.js](https://nodejs.org)
