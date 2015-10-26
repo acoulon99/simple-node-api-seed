@@ -9,7 +9,7 @@ The second main feature of this project is its simple design. It is meant to be 
 ## Getting Started
 
 ### Vagrant (recommended)
-Prerequiresites: [Vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/wiki/Download_Old_Builds_4_3) v4.3
+Prerequiresites:  [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/)
 
 1. Clone the repository and enter the project directory
 
